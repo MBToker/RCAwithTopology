@@ -1,8 +1,0 @@
-pandas
-numpy
-prophet
-pycaret
-shap
-sqlalchemy
-sqlalchemy-vertica-python
-python-dotenv
